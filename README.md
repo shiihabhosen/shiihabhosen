@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://camo.githubusercontent.com/6a5d95f90faf63ed6a558facf69c17e208351cac026c853a3c9793b29a99f4c4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" data-canonical-src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+![img](Hey!.png)
 
 - 👋 Hi, I’m @shiihabhosen 
 - 👀 I’m interested in Codiing
@@ -11,6 +11,7 @@
 <h1 align="center">Hi 👋, I'm Shihab Hosen</h1>
 <h3 align="center">I'm a Web Developer</h3>
 
+<img align="right" alt="codding" width="400px" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo07ToL1YzKPkPvqZ8QyH0qbFB0QhG6cRy8uYgaedl3Lqfep2i9UUz7BeFGTCivImSBEM&usqp=CAU](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
