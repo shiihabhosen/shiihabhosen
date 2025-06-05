@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Shihab Hosen</h1>
 <h3 align="center">I'm a Web Developer</h3>
-<img align="right" alt="codding" width="400px" src="https://iconscout.com/lottie-animations/programmer">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiihabhosen" alt="shiihabhosen" /></a> </p>
 
