@@ -1,9 +1,11 @@
-![Banner](banner.jpg)
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shihab Hosen</h1>
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack Enthusiast | Digital Marketer 🚀</h3>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shiihabhosen&label=Profile%20views&color=0e75b6&style=flat" alt="shiihabhosen" />
@@ -36,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/shiihabhosen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="48" height="48" />
   </a>
   <a href="https://instagram.com/shiihab_hosen" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
